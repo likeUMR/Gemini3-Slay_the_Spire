@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="none"/>
+  <path d="M150 50 L250 150 L150 350 L50 150 Z" fill="#06b6d4"/>
+  <text x="150" y="200" font-family="sans-serif" font-size="40" text-anchor="middle" fill="white">CAW</text>
+</svg>
